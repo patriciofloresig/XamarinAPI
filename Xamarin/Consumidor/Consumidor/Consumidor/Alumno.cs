@@ -20,7 +20,7 @@ namespace Consumidor
         // que se transformaria en una lista de objetos de clase Alumnos
         public async static Task<List<Alumno>> GetCuentas()
         {
-            return await new WSCliente().Get<List<Alumno>>("alumno");
+            return await new WSCliente().Get<List<Alumno>>("alumnos");
         }
     }
 }
