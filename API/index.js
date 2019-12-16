@@ -19,7 +19,7 @@ app.get('/alumnos', (request, response) => {
 app.get('/alumnos/:id', (request, response) => {
     // En este caso lo que queremos es que nos devuelva el resultado 
     // de esa consulta SQL 
-    pool.query(`SELECT * FROM alumnos WHERE id = '${request.params.id}'`, (error, result) => {
+    pool.query(`SELECT * FROM alumnos WHERE id = "${request.params.id}"`, (error, result) => {
         if (error) {
             response.send(error.message);
             console.log(error.message);
