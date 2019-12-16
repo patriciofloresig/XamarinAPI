@@ -32,15 +32,13 @@ namespace Consumidor
             try
             {
                 string status =  response.StatusCode.ToString();
-                return (status == "200") ? true : false;
+                string content =  response.Content.ToString();
+                return (content == "ERROR") ? true : false;
             }
             catch (Exception e)
             {
                 return false;
             }
-            
-
-
         }
 
         public async Task PostJson (string url, Alumno o)
