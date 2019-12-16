@@ -10,3 +10,15 @@ C:\Users\Nick\Desktop\DAM\JAVI\Consumidor\Consumidor\Consumidor\bin\Debug\netsta
 C:\Users\Nick\Desktop\DAM\JAVI\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Nick\Desktop\DAM\JAVI\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\Consumidor.dll
 C:\Users\Nick\Desktop\DAM\JAVI\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\Consumidor.pdb
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\bin\Debug\netstandard2.0\Consumidor.deps.json
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\bin\Debug\netstandard2.0\Consumidor.dll
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\bin\Debug\netstandard2.0\Consumidor.pdb
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\Consumidor.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\Consumidor.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\Consumidor.AssemblyInfoInputs.cache
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\Consumidor.AssemblyInfo.cs
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\Consumidor.dll
+C:\Users\Nick\Desktop\XamarinAPI\Xamarin\Consumidor\Consumidor\Consumidor\obj\Debug\netstandard2.0\Consumidor.pdb

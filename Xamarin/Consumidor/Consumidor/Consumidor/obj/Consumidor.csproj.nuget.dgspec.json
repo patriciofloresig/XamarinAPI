@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nick\\Desktop\\DAM\\JAVI\\Consumidor\\Consumidor\\Consumidor\\Consumidor.csproj": {}
+    "C:\\Users\\Nick\\Desktop\\XamarinAPI\\Xamarin\\Consumidor\\Consumidor\\Consumidor\\Consumidor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nick\\Desktop\\DAM\\JAVI\\Consumidor\\Consumidor\\Consumidor\\Consumidor.csproj": {
+    "C:\\Users\\Nick\\Desktop\\XamarinAPI\\Xamarin\\Consumidor\\Consumidor\\Consumidor\\Consumidor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nick\\Desktop\\DAM\\JAVI\\Consumidor\\Consumidor\\Consumidor\\Consumidor.csproj",
+        "projectUniqueName": "C:\\Users\\Nick\\Desktop\\XamarinAPI\\Xamarin\\Consumidor\\Consumidor\\Consumidor\\Consumidor.csproj",
         "projectName": "Consumidor",
-        "projectPath": "C:\\Users\\Nick\\Desktop\\DAM\\JAVI\\Consumidor\\Consumidor\\Consumidor\\Consumidor.csproj",
+        "projectPath": "C:\\Users\\Nick\\Desktop\\XamarinAPI\\Xamarin\\Consumidor\\Consumidor\\Consumidor\\Consumidor.csproj",
         "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nick\\Desktop\\DAM\\JAVI\\Consumidor\\Consumidor\\Consumidor\\obj\\",
+        "outputPath": "C:\\Users\\Nick\\Desktop\\XamarinAPI\\Xamarin\\Consumidor\\Consumidor\\Consumidor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

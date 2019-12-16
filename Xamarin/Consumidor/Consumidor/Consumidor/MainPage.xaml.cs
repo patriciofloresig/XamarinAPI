@@ -19,7 +19,7 @@ namespace Consumidor
             InitializeComponent();
         }
 
-        private async void Button_Clicked(object sender, EventArgs e)
+        private async void Actualizar_LV(object sender, EventArgs e)
         {
             lvEventos.IsRefreshing = true;
             eventos = await WSAlumno.GetCuentas();

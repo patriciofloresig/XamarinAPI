@@ -7,20 +7,19 @@
              x:Class="Consumidor.MainPage">
 
     <StackLayout Padding="10">
-        <ListView x:Name="lvEventos" HasUnevenRows="True" SelectionMode="None">
+        <ListView x:Name="lvEventos" IsPullToRefreshEnabled="True" Refreshing="Actualizar_LV" HasUnevenRows="True" SelectionMode="None" >
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout VerticalOptions="CenterAndExpand" Padding="10">
-                            <Label Text="{Binding Nombre}" Margin="0,5"/>
-                            <Label Text="{Binding Apellido}" Margin="0,5"/>
-                            <Label Text="{Binding Clase}" Margin="0,5"/>
+                            <Label Text="{Binding Nombre}" Margin="0,1"/>
+                            <Label Text="{Binding Apellido}" Margin="0,1"/>
+                            <Label Text="{Binding Clase}" Margin="0,1"/>
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-        <Button Text="Actualizar" Clicked="Button_Clicked"/>
     </StackLayout>
 
 </ContentPage>
